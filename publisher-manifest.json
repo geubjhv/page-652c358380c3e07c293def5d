@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "58fe0c2b4b341a9c44c96cdc",
+  "owner": "geubjhv",
+  "repo": "page-652c358380c3e07c293def5d",
+  "title": "云川",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "652c358380c3e07c293def5d",
+      "a": "云川",
+      "b": "机场官网线路发布页",
+      "entity": "云川",
+      "brand": "云川",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d0a17af4091948f554c0ae13140757b556a77ca8cb9dfbc42e38a964559f04a9",
+      "content": {
+        "primary_entity": "云川",
+        "keyword1": "云川",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕多设备接入与订阅周期提供三档套餐，基础版适合个人轻度使用，旗舰版面向流媒体与游戏场景，团队版可满足多人共享。在客户端导入订阅后即可按所选方案使用对应节点池与在线设备数量。",
+          "AI_HERO_SUBTITLE": "云川多端加速订阅",
+          "AI_HERO_INTRO": "云川提供按月与按年计费的订阅服务，覆盖基础、旗舰、团队三档选择。不同套餐在流量、在线设备数量与节点类型上有明确区分，便于按个人或团队需求快速匹配。",
+          "AI_VISUAL_TITLE": "云川订阅方案速览",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备在线",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "按使用场景选择套餐，关注流量、设备数与节点类型三项核心差异。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版100GB适合轻度浏览，旗舰版300GB兼顾流媒体与游戏，团队版1000GB供多人使用。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台同时在线，选择前先统计常用设备数量。",
+          "AI_FEATURE_TITLE_3": "按周期计费",
+          "AI_FEATURE_TEXT_3": "三档均提供月付与年付，年付分别为150元、350元、850元，长期使用更划算。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统有对应的订阅客户端，按设备类型选择并参照其文档导入订阅即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点类型上逐级提升，按实际用量选择即可。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确定套餐，再确认设备适配，最后按客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与在线设备数量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端类型，核对套餐支持的在线设备数量是否满足。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的文档说明导入订阅信息，完成后即可按套餐节点池使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_1": "在对应客户端中找到订阅管理入口，按客户端文档提供的步骤粘贴或扫码导入订阅信息，保存后刷新节点列表即可使用。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以几台设备同时用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出数量时，需要升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月计费，年付一次性支付较长时间。基础版年付150元，旗舰版年付350元，团队版年付850元，长期使用可选年付。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线有什么用？",
+          "AI_FAQ_ANSWER_4": "IPLC专线针对游戏场景优化，可降低部分游戏中的延迟波动，同时旗舰版支持全节点原生流媒体解锁与7x24优先工单支持。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量并支持20台设备在线，适合小组或企业多人共享，还包含VIP专属高带宽节点与专属客户经理服务。",
+          "AI_CLOSING_TITLE": "选对套餐再开始",
+          "AI_CLOSING_TEXT": "先明确流量与设备需求，再选定档位并按客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huayichuanmei.cn",
+    "host": "huayichuanmei.cn"
+  },
+  "file_hashes": {
+    "index.html": "49aaf828b3a051713e1974558b4f8fe732d2bed14ace98736ed903d0b7b14da6",
+    "sitemap.xml": "af9de4f99a2fef3d862288e512197054639e34871883f59593e6a3af269ecc2f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dae4ecbf9fe3e3b7a5bea2d9d5852a24acd53c2acbbd31d231c8d6fc3ee1bbcd",
+    "robots.txt": "9be488e8d7652229a81126121806b995e946ea3d56a81f5748fce33fbb99de6b",
+    "bf8193e756bfd3ef4e88e47c0e10c1bc.txt": "aabefcf6d0a71b8c3658166529e01fcef494ae7c4763192093432e59f7d42de5"
+  },
+  "revision": "aaaa43568626eff5014170191c1d2639ad7a85d91e481178c0165f249e270568"
+}
